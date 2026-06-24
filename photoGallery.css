@@ -1,10 +1,14 @@
 img {
     width: 300px;
-    height: 200px;
+    height: 400px;
     margin: 10px;
+    object-fit: cover;
     border: 1px solid gray;
 }
 
 body {
     font-family: 'Helvetica';
+    background-image: url("Screenshot20260624142019.png");
+    text-align: center;
+    color: white;
 }
